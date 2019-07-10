@@ -1,0 +1,5 @@
+
+#primer programa
+#Autor:Dro-Rodrix
+
+echo "Hola mundo"
